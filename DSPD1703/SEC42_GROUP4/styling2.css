@@ -1,0 +1,27 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.row {
+    display: flex;
+    gap: 20px;
+}
+
+.outer {
+    display: flex;
+    color: white;
+}
+
+.inner {
+    top: 0;
+    right: 0;
+}
+
+div:hover {
+    text-decoration: underline;
+}
